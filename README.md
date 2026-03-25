@@ -50,10 +50,8 @@ My goal: build tools that make life smarter and digital projects that **go viral
 
 ## 📫 Connect With Me
 - GitHub: [Mikiyas-Teshome67](https://github.com/Mikiyas-Teshome67)  
-- LinkedIn: [Mikiyas Teshome](https://www.linkedin.com/in/mikiyas-teshome67/)  
-- Twitter/X: [@MikiyasTesh](https://twitter.com/MikiyasTesh)  
-- Email: mikiyas.teshome@example.com  
-
+- YouTube: [MikiyasTT_Edits](https://www.youtube.com/MikiyasTT_edits)  
+- Email: mikiyasteshome749@gmail.com  
 ---
 
 ## ⚡ Fun Fact
