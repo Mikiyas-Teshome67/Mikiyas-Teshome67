@@ -10,7 +10,8 @@
 Hello! I’m **Mikiyas Teshome**, creator of Ethiopia’s next-level AI & tech projects.  
 I aim to be the **first Ethiopian developer with globally viral GitHub projects**.  
 My goal: build tools that make life smarter and digital projects that **go viral worldwide**.
-
+![Miki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mikiyas-Teshome67&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikiyas-Teshome67&layout=compact&theme=radical)
 ---
 
 ## ⚡ Featured Projects
