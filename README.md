@@ -13,7 +13,7 @@ I’m a passionate software engineer with a focus on AI, web, and mobile develop
 **Tools & Platforms:** GitHub, Git, VS Code, Android Studio, Docker  
 **AI & ML:** Generative AI, Computer Vision, Disease Detection Systems  
 **Databases:** MySQL, Firebase, MongoDB  
-
+**linkdin Porfolio: ![Mikiyas Linkdin](bg.png)
 ---
 
 ## 💼 Experience
