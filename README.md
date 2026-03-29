@@ -49,8 +49,23 @@ Follow me for coding tutorials, AI experiments, and viral edits!
 
 ## 📈 GitHub Stats
 
-![Mikiyas GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mikiyas-Teshome67&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mikiyas-Teshome67&show_icons=true&theme=radical)
 
+## 📊 GitHub Most Used Languages
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikiyas-Teshome67&layout=compact&theme=radical)
+
+## 💪 Contribution Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mikiyas-Teshome67&theme=radical)
+
+## 🧠 GitHub Commit Activity Graph
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mikiyas-Teshome67&theme=react-dark)
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mikiyas-Teshome67&theme=radical)
 ---
 
 ## ⚡ Fun Fact
