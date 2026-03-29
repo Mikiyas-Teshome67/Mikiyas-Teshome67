@@ -1,59 +1,62 @@
-# 🚀 Miki's Ultimate Portfolio & Projects
+# Hi there 👋, I'm Mikiyas Teshome
 
-![Header](https://img.shields.io/badge/Made%20By-Miki-orange?style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/Mikiyas-Teshome67?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/Mikiyas-Teshome67?style=social)
+**Full-Stack Software Engineer | AI Developer | Content Creator**
 
----
-
-## 🌍 About Me
-Hello! I’m **Mikiyas Teshome**, creator of Ethiopia’s next-level AI & tech projects.  
-I aim to be the **first Ethiopian developer with globally viral GitHub projects**.  
-My goal: build tools that make life smarter and digital projects that **go viral worldwide**.
-![Miki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mikiyas-Teshome67&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikiyas-Teshome67&layout=compact&theme=radical)
----
-
-## ⚡ Featured Projects
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| **Ethiopian Generative AI** | AI that understands & generates Amharic content | 🚀 Active |
-| **Disease Detection Tool (Python)** | Detect diseases with computer vision | ✅ Stable |
-| **Portfolio22** | My personal portfolio website | 🌐 Online |
-
-> 🔥 All projects are built to be lightweight, fast, and user-friendly.
+I’m a passionate software engineer with a focus on AI, web, and mobile development. I build innovative applications that combine high performance with user-friendly design. From Ethiopia to the world, I aim to make an impact through technology and creative content.
 
 ---
 
-## 🛠 Tech Stack
-- **Frontend:** HTML, CSS, TypeScript, Dart
-- **Backend:** Python, Node.js
-- **AI/ML:** TensorFlow, PyTorch, OpenCV
-- **Other Tools:** GitHub Actions, REST APIs, Firebase
+## 🚀 Skills & Technologies
+
+**Programming Languages:** Python, TypeScript, Dart, JavaScript, HTML, CSS  
+**Frameworks & Libraries:** Node.js, React, Flutter, TensorFlow, PyTorch  
+**Tools & Platforms:** GitHub, Git, VS Code, Android Studio, Docker  
+**AI & ML:** Generative AI, Computer Vision, Disease Detection Systems  
+**Databases:** MySQL, Firebase, MongoDB  
 
 ---
 
-## 🎯 Why Star & Follow?
-- 🌟 Early access to Ethiopia’s first viral AI projects
-- 📚 Tutorials & open-source tools
-- ⚡ Collaboration opportunities
-- 🌐 Real-world projects ready to launch
+## 💼 Experience
+
+I have successfully delivered multiple projects on **Upwork** and personal ventures including:  
+- **Generative AI App** – Ethiopia’s first generative AI project.  
+- **Disease Detection Tool** – Python-based AI for medical diagnostics.  
+- **Portfolio Web Apps** – High-performance web apps combining front-end and back-end.  
+- Contributed to open-source projects showcasing advanced AI, web, and mobile solutions.
 
 ---
 
-## 📌 Get Involved
-1. **Star** the repo ⭐ – it helps my projects reach global developers.
-2. **Fork** it 🔱 – experiment and improve the code.
-3. **Follow** me – see Ethiopia’s tech revolution live.
+## 📺 Socials & Content
+
+I also create viral tech and edit content on YouTube & TikTok:  
+- **YouTube:** [MikiyasTT_Edits](https://www.youtube.com/@MikiyasTT_Edits)  
+- **TikTok:** [@mikiyastt_edits](https://www.tiktok.com/@mikiyastt_edits)  
+
+Follow me for coding tutorials, AI experiments, and viral edits!
 
 ---
 
-## 📫 Connect With Me
-- GitHub: [Mikiyas-Teshome67](https://github.com/Mikiyas-Teshome67)  
-- YouTube: [MikiyasTT_Edits](https://www.youtube.com/MikiyasTT_edits)  
-- Email: mikiyasteshome749@gmail.com  
+## 📂 Featured Projects
+
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| [YScroll Landing Website](https://github.com/Mikiyas-Teshome67/yscroll-landing-website) | HTML, CSS, JS | Smooth scrolling landing page with modern UI |
+| [Disease Detection Tool](https://github.com/Mikiyas-Teshome67/disease-detection) | Python, TensorFlow | AI-powered disease detection from images |
+| [Generative AI App](https://github.com/Mikiyas-Teshome67) | Python, Node.js | Ethiopia’s first generative AI project |
+| [Portfolio Apps](https://github.com/Mikiyas-Teshome67) | Flutter, React | Mobile & web apps showcasing my skills |
+
+---
+
+## 📈 GitHub Stats
+
+![Mikiyas GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mikiyas-Teshome67&show_icons=true&theme=radical)
+
 ---
 
 ## ⚡ Fun Fact
-I’m on a mission to **make Ethiopian tech globally recognized**. Every star, fork, and contribution counts. Let’s build history! 🌍
+
+I combine **AI coding** with **creative edits**, making tech visually engaging and interactive. When I’m not coding, I’m creating viral YouTube and TikTok content!
+
+---
+
+> “Building tech that matters, creating content that inspires.” – **Mikiyas Teshome**
