@@ -65,7 +65,7 @@ Follow me for coding tutorials, AI experiments, and viral edits!
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mikiyas-Teshome67&theme=radical)
+![GitHub Stats](https://ghstats.dev/api/card?username=Mikiyas-Teshome67&theme=tokyonight)
 
 ---
 
