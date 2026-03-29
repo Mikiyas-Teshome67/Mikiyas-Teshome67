@@ -63,10 +63,6 @@ Follow me for coding tutorials, AI experiments, and viral edits!
 
 ![GitHub Commit Activity (Week)](https://img.shields.io/github/commit-activity/w/Mikiyas-Teshome67/REPO_NAME)
 
-## 🏆 GitHub Trophies
-
-![GitHub Stats](https://ghstats.dev/api/card?username=Mikiyas-Teshome67&theme=tokyonight)
-
 ---
 
 ## ⚡ Fun Fact
