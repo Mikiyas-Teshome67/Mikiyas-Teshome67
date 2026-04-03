@@ -3,7 +3,7 @@
 **Full-Stack Software Engineer | AI Developer | Content Creator**
 
 I’m a passionate software engineer with a focus on AI, web, and mobile development. I build innovative applications that combine high performance with user-friendly design. From Ethiopia to the world, I aim to make an impact through technology and creative content.
-**linkdin Porfolio: ![Mikiyas Linkdin](bg.png)
+**linkdin Porfolio: ![Mikiyas Linkdin](xcbs.png)
 ---
 
 ## 🚀 Skills & Technologies
