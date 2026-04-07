@@ -3,9 +3,12 @@
 **Full-Stack Software Engineer | AI Developer | Content Creator**
 
 I’m a passionate software engineer with a focus on AI, web, and mobile development. I build innovative applications that combine high performance with user-friendly design. From Ethiopia to the world, I aim to make an impact through technology and creative content.
-## 🌐 My Portfolio
 
-[![Portfolio](https://mikiyas-teshome67.github.io/my-portfolio/)
+<p align="center">
+  <a href="https://mikiyas-teshome67.github.io/my-portfolio/">
+    🌐 Portfolio Website
+  </a>
+</p>
 
 **linkdin Porfolio: ![Mikiyas Linkdin](xcbs.png)
 ---
