@@ -20,8 +20,8 @@ I’m a passionate software engineer with a focus on AI, web, and mobile develop
 , ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat&logo=assemblyscript&logoColor=white)
 , ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-**Frameworks & Libraries:** ![Node.js](https://shields.io)
-, React, Flutter, TensorFlow, PyTorch  
+**Frameworks & Libraries:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+,![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB),![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white), ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white), ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 **Tools & Platforms:** GitHub, Git, VS Code, Android Studio, Docker  
 **AI & ML:** Generative AI, Computer Vision, Disease Detection Systems  
 **Databases:** MySQL, Firebase, MongoDB  
