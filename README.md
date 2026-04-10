@@ -37,7 +37,8 @@ I have successfully delivered multiple projects on **Upwork** and personal ventu
 
 I also create viral tech and edit content on YouTube & TikTok:  
 - **YouTube:** [MikiyasTT_Edits](https://www.youtube.com/@MikiyasTT_Edits)  
-- **TikTok:** [@mikiyastt_edits](https://www.tiktok.com/@mikiyastt_edits)  
+- **TikTok:** [@mikiyastt_edits](https://www.tiktok.com/@mikiyastt_edits)
+- **Email:** [mikiyasteshome749](mikiyasteshome749@gmail.com)    
 
 Follow me for coding tutorials, AI experiments, and viral edits!
 
