@@ -36,9 +36,13 @@ I’m a passionate software engineer with a focus on AI, web, and mobile develop
 ## 💼 Experience
 
 I have successfully delivered multiple projects on **Upwork** and personal ventures including:  
+
 - **Generative AI App** – Ethiopia’s first generative AI project.  
+
 - **Disease Detection Tool** – Python-based AI for medical diagnostics.  
+
 - **Portfolio Web Apps** – High-performance web apps combining front-end and back-end.  
+
 - Contributed to open-source projects showcasing advanced AI, web, and mobile solutions.
 
 ---
@@ -46,8 +50,11 @@ I have successfully delivered multiple projects on **Upwork** and personal ventu
 ## 📺 Socials & Content
 
 I also create viral tech and edit content on YouTube & TikTok:  
+
 - **YouTube:** [MikiyasTT_Edits](https://www.youtube.com/@MikiyasTT_Edits)  
+
 - **TikTok:** [@mikiyastt_edits](https://www.tiktok.com/@mikiyastt_edits)
+
 - **Email:** [mikiyasteshome749](mikiyasteshome749@gmail.com)    
 
 Follow me for coding tutorials, AI experiments, and viral edits!
@@ -79,7 +86,7 @@ Follow me for coding tutorials, AI experiments, and viral edits!
 
 ## 🧠 GitHub Commit Activity Graph
 
-![GitHub Commit Activity (Week)](https://img.shields.io/github/commit-activity/w/Mikiyas-Teshome67/REPO_NAME)
+![GitHub Commit Activity (Week)](https://img.shields.io/github/commit-activity/w/Mikiyas-Teshome67/Mikiyas-Teshome67)
 
 ---
 
